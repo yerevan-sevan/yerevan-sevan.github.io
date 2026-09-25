@@ -4,7 +4,7 @@
    - навигация: network-first, при отсутствии сети — из кэша (fallback на главную)
    - gpx: cache-first
 */
-const CACHE = "krestniy-hod-v14";
+const CACHE = "krestniy-hod-v15";
 const PRECACHE = [
   "/",
   "/index.html",
