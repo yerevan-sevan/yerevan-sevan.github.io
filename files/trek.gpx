@@ -1,13 +1,13 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<gpx version="1.1" creator="Krestniy hod Vardavar 2027" xmlns="http://www.topografix.com/GPX/1/1">
+<gpx version="1.1" creator="St. Gregory Path" xmlns="http://www.topografix.com/GPX/1/1">
   <metadata>
-    <name>Крестный ход Ереван → Севанаванк · Вардавар 2027</name>
+    <name>Путь Святого Григория · Ереван → Севанаванк</name>
     <desc>99 км по стопам Св. Григория Просветителя. 5 дней: 30 июня – 4 июля 2027.
 Координаты ориентировочные (основные пути) — перед походом заменить фактическим треком.</desc>
     <time>2027-06-30T00:00:00Z</time>
   </metadata>
   <trk>
-    <name>Крестный ход Вардавар 2027</name>
+    <name>Путь Святого Григория · Ереван → Севанаванк</name>
     <trkseg>
       <trkpt lat="40.1719" lon="44.5166"><name>День 1 · Старт · Собор Св. Григория (Ереван)</name></trkpt>
       <trkpt lat="40.1910" lon="44.5157"><name>День 1 · Молебен Трдату III · Каскад</name></trkpt>
