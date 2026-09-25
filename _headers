@@ -1,0 +1,9 @@
+# Заголовки Netlify / Cloudflare Pages. Файл копируется в корень out/ при сборке.
+
+# Service worker обязан проверяться на каждом визите, иначе пользователи
+# остаются на старом кэше сайта и не получают обновления.
+/sw.js
+  Cache-Control: no-cache, no-store, must-revalidate
+
+/manifest.webmanifest
+  Cache-Control: no-cache

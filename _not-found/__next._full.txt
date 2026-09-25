@@ -1,0 +1,17 @@
+1:"$Sreact.fragment"
+2:I[22016,["/_next/static/chunks/07lk1qbrmb65w.js"],""]
+3:I[39756,["/_next/static/chunks/07lk1qbrmb65w.js"],"default"]
+4:I[37457,["/_next/static/chunks/07lk1qbrmb65w.js"],"default"]
+5:I[97367,["/_next/static/chunks/07lk1qbrmb65w.js"],"OutletBoundary"]
+6:"$Sreact.suspense"
+9:I[97367,["/_next/static/chunks/07lk1qbrmb65w.js"],"ViewportBoundary"]
+b:I[97367,["/_next/static/chunks/07lk1qbrmb65w.js"],"MetadataBoundary"]
+d:I[68027,[],"default",1]
+:HL["/_next/static/chunks/31x_1nc0arvzq.css","style"]
+8:X
+0:{"P":null,"c":["","_not-found",""],"q":"","i":false,"f":[[["",{"children":["/_not-found",{"children":["__PAGE__",{},"$undefined","$undefined",4608]},"$undefined","$undefined",4608]},"$undefined","$undefined",4624],[["$","$1","c",{"children":[[["$","link","0",{"rel":"stylesheet","href":"/_next/static/chunks/31x_1nc0arvzq.css","precedence":"next","crossOrigin":"$undefined","nonce":"$undefined"}],["$","script","script-0",{"src":"/_next/static/chunks/07lk1qbrmb65w.js","async":true,"nonce":"$undefined"}]],["$","html",null,{"lang":"ru","className":"h-full antialiased","children":["$","body",null,{"className":"min-h-full bg-sevan-950 text-cream-50 flex items-center justify-center font-sans","children":["$","div",null,{"className":"text-center px-6 py-16","children":[["$","p",null,{"className":"font-display text-7xl gold-text","children":"404"}],["$","div",null,{"className":"divider-ornate text-gold-500/60 my-6","aria-hidden":true,"children":"✦"}],["$","p",null,{"className":"text-sevan-100/85 mb-2","children":"Страница не найдена."}],["$","p",null,{"className":"text-sevan-100/85 mb-8","children":"Page not found."}],["$","p",null,{"className":"flex items-center justify-center gap-4 text-sm","children":[["$","$L2",null,{"href":"/ru/","className":"px-5 py-2.5 rounded-xl border border-gold-400/40 text-gold-300 hover:bg-gold-500/10 transition-colors","children":"На главную"}],["$","$L2",null,{"href":"/en/","className":"px-5 py-2.5 rounded-xl border border-gold-400/40 text-gold-300 hover:bg-gold-500/10 transition-colors","children":"Home"}]]}]]}]}]}]]}],{"children":[["$","$1","c",{"children":[null,["$","$L3",null,{"parallelRouterKey":"children","error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L4",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":"$undefined","forbidden":"$undefined","unauthorized":"$undefined"}]]}],{"children":[["$","$1","c",{"children":[null,null,["$","$L5",null,{"children":["$","$6",null,{"name":"Next.MetadataOutlet","children":"$@7"}]}]]}],{},null,false,null]},null,false,"$8"]},null,false,null],["$","$1","h",{"children":[["$","meta",null,{"name":"robots","content":"noindex"}],["$","$L9",null,{"children":"$La"}],["$","div",null,{"hidden":true,"children":["$","$Lb",null,{"children":["$","$6",null,{"name":"Next.Metadata","children":"$Lc"}]}]}],["$","meta",null,{"name":"next-size-adjust","content":""}]]}],false]],"m":"$undefined","G":["$d",[]],"S":true,"h":null,"r":"$undefined","s":"$undefined","a":"$undefined","l":"$undefined","p":"$undefined","d":"$undefined","b":"iuCNNWuY4qWWdtLlvgx3S"}
+8:C
+a:[["$","meta","0",{"charSet":"utf-8"}],["$","meta","1",{"name":"viewport","content":"width=device-width, initial-scale=1"}]]
+e:I[27201,["/_next/static/chunks/07lk1qbrmb65w.js"],"IconMark"]
+7:null
+c:[["$","title","0",{"children":"404 — страница не найдена / Page not found"}],["$","link","1",{"rel":"icon","href":"/favicon.ico?favicon.2vob68tjqpejf.ico","sizes":"256x256","type":"image/x-icon"}],["$","$Le","2",{}]]
