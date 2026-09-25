@@ -1,0 +1,4 @@
+User-Agent: *
+Allow: /
+
+Sitemap: https://yerevan-sevan.github.io/sitemap.xml

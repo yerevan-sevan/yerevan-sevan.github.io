@@ -3,8 +3,11 @@
    - статика (html/css/js/иконки/фото): cache-first после первого визита
    - навигация: network-first, при отсутствии сети — из кэша (fallback на главную)
    - gpx: cache-first
+
+   v19: метаданные страниц — og-теги на языке локали, canonical и полноценный
+   hreflang-кластер на каждой странице; добавлены /robots.txt и /sitemap.xml.
 */
-const CACHE = "krestniy-hod-v18";
+const CACHE = "krestniy-hod-v19";
 const PRECACHE = [
   "/",
   "/index.html",
